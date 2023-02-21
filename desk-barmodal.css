@@ -1,0 +1,56 @@
+body {
+    background-color:#f8f2f2fd;
+}
+
+
+div {
+    top: 0px;
+    left: 0px;
+    width: 1440px;
+    height: 70px;
+    
+    background: #4C5DC8 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+#content {
+   
+padding-top: 20px;
+ padding-left: 341px;
+   width: 579px;
+   height: 30px;
+ 
+   font-size: 22px;
+   font-weight: 700px;
+   line-height: 24px;
+   font-family: 'Noto Sans', 'Sans Serif';
+   text-align: left;
+   letter-spacing: NaNpx;
+   color: #FFFFFF;
+   opacity: 1;
+
+}
+#GET {
+   
+top: 15px;
+left: 940px;
+width: 160px;
+height: 40px;
+font-weight: 400px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 3px;
+opacity: 1;
+}
+ #content-2 {
+/* padding-top: 9px;
+padding-left: 31px;
+padding-bottom: 9px;
+padding-right: 31px; */
+width: 98px;
+height: 22px;
+/* UI Properties */
+text-align: left;
+font: normal normal 600 16px/22px Noto Sans;
+letter-spacing: 0.8px;
+color: #262629;
+opacity: 1;
+} 
