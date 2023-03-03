@@ -1,6 +1,4 @@
 
-
-
 #bar_popup{
     position:fixed;
     top:0;
@@ -11,42 +9,39 @@
     z-index:100;
 }
 #bar_content {
-   
     padding-left: 341px;
-   width: 579px;
-   height: 30px;
-   font-size: 22px;
-   font-weight: 600;
-   line-height: 24px;
-   font-family: 'Noto Sans', 'Sans Serif';
-   text-align: left;
-   color: #FFFFFF;
-   opacity: 1;
-   display:flex;
-   vertical-align: middle;
-   text-align:center;
-   align-items:center;
+    height: 30px;
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 24px;
+    font-family: 'Noto Sans', 'Sans Serif';
+    text-align: left;
+    color: #FFFFFF;
+    opacity: 1;
+    display:flex;
+    vertical-align: middle;
+    text-align:center;
+    align-items:center;
 }
-
 #bar_button {   
-top: 15px;
-left: 940px;
-width: 160px;
-height: 40px;
-background: #FFFFFF 0% 0% no-repeat padding-box;
-border-radius: 3px;
-opacity: 1;
-color: #262629;
-font-size:16px;
-line-height:22px;
-letter-spacing:0.8px;
-font-weight:600;
-font-family:'Noto Sans', 'Sans Serif';
-border:#FFFFFF;
+    top: 15px;
+    left: 940px;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 3px;
+    opacity: 1;
+    color: #262629;
+    font-size:16px;
+    line-height:22px;
+    letter-spacing:0.8px;
+    font-weight:600;
+    font-family:'Noto Sans', 'Sans Serif';
+    border:#FFFFFF;
 }
 
 .bar_content-2 {
- font-weight: 400;
+    font-weight: 400;
 }
 
 .bar_modal{
